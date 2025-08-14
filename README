@@ -1,5 +1,5 @@
 To Activate Microsoft office or MS365 (Lifetime)
 1. Go to powershell --> open as administrator.
-2. Type irm https://massgrave.dev/get | iex (PREVIOUS) OR 2.irm https://get.activated.win | iex (NEW)
+2. Type "irm https://massgrave.dev/get | iex" (PREVIOUS, IF NOT WORKS) OR 2. "irm https://get.activated.win | iex" (NEW)
 3. Press 2.
 4. Press 1.
